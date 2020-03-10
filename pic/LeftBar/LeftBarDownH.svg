@@ -1,0 +1,15 @@
+<svg id="_00_下拉反馈" data-name="00 下拉反馈" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d96367;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <circle id="椭圆_309" data-name="椭圆 309" class="cls-1" cx="11" cy="11" r="11"/>
+  <path id="路径_1127" data-name="路径 1127" class="cls-2" d="M5.767.789a1,1,0,0,1,1.466,0L11.44,5.32A1,1,0,0,1,10.707,7H2.293A1,1,0,0,1,1.56,5.32Z" transform="translate(17.709 15) rotate(180)"/>
+</svg>

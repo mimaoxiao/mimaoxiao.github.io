@@ -1,0 +1,22 @@
+<svg id="_26_项目卡勾选框_normal" data-name="26 项目卡勾选框 normal" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #bbc0c4;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="椭圆_340" data-name="椭圆 340" class="cls-1">
+    <circle class="cls-2" cx="11.5" cy="11.5" r="11.5"/>
+    <circle class="cls-3" cx="11.5" cy="11.5" r="10.75"/>
+  </g>
+</svg>

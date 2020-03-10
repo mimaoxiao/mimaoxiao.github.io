@@ -1,0 +1,30 @@
+<svg id="_26_项目卡勾选框_click" data-name="26 项目卡勾选框 click" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2499fc;
+        stroke: #2499fc;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="椭圆_326" data-name="椭圆 326" class="cls-1">
+    <circle class="cls-3" cx="11.5" cy="11.5" r="11.5"/>
+    <circle class="cls-4" cx="11.5" cy="11.5" r="10.75"/>
+  </g>
+  <g id="queren" transform="translate(4.598 7.864)">
+    <path id="路径_1258" data-name="路径 1258" class="cls-2" d="M279.838,338.73a.951.951,0,0,1-.658-.266l-3.883-3.81a.9.9,0,0,1,0-1.289.943.943,0,0,1,1.314,0l3.227,3.165,6.937-6.8a.94.94,0,0,1,1.314,0,.9.9,0,0,1,0,1.289l-7.593,7.446a.942.942,0,0,1-.658.268Z" transform="translate(-275.024 -329.46)"/>
+  </g>
+</svg>

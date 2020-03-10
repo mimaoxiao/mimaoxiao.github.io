@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.22" height="18.412" viewBox="0 0 19.22 18.412">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #818990;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="_03_leftbar_star" data-name="03 leftbar_star" transform="translate(0.763 0.75)">
+    <path id="leftbar_star" class="cls-1" d="M8.836,14.38,4.1,16.871a.675.675,0,0,1-.979-.712l.905-5.273L.194,7.15A.675.675,0,0,1,.568,6L5.863,5.23,8.231.431a.675.675,0,0,1,1.21,0l2.368,4.8,5.3.769a.675.675,0,0,1,.373,1.151l-3.832,3.735.905,5.274a.675.675,0,0,1-.979.712L8.835,14.38Z" transform="translate(0.011 -0.055)"/>
+  </g>
+</svg>
